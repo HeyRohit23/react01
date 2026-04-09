@@ -25,25 +25,7 @@ Programming: JavaScript (ES6+).
 
 Tools: Git, GitHub, Vite.
 
-⚙️ Installation & Setup
-To run this project locally, follow these steps:
 
-Clone the repository:
-
-Bash
-git clone https://github.com/HeyRohit23/react01.git
-Navigate to the project directory:
-
-Bash
-cd 13-notes-app
-Install dependencies:
-
-Bash
-npm install
-Start the development server:
-
-Bash
-npm run dev
 🧠 Key Learnings
 During this project, I strengthened my understanding of React fundamentals and improved my problem-solving and debugging skills. I focused on creating reusable components and maintaining a modular code structure, which is essential for scalable frontend applications.
 
